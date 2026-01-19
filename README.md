@@ -29,7 +29,7 @@ Repository for pixima-Ai-img-generator-.
 - List key features here.
 
 ## Tech Stack
-- List primary technologies used.
+- Python
 
 ## Getting Started
 Prerequisites:
@@ -40,13 +40,12 @@ Prerequisites:
 `ash
 git clone https://github.com/Nizath-Mohammed/pixima-Ai-img-generator-.git
 cd pixima-Ai-img-generator-
-# add setup steps here
 `
 
+
+
 ## Usage
-`ash
-# add usage commands here
-`
+
 
 ## Scripts
 - Document useful scripts or commands.
